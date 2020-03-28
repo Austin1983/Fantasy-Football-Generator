@@ -13,5 +13,6 @@
     <WebStackScaffolding_DbContextTypeFullName>FootballCalc.Data.FootballCalcContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <NameOfLastUsedPublishProfile>FootBallCalc - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
